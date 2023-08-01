@@ -1,6 +1,6 @@
 # Auto Steam Fix Tool v1
 
-![Screenshot 2023-07-29 145745](https://github.com/ManiacKnight/Auto-Steam-Fix-Tool-v1-GUILess-/assets/50814368/da677df5-2836-40ff-a76c-c50de7f96b5f)
+![Screenshot 2023-07-29 145745](https://github.com/ManiacKnight/Auto-Steam-Fix-Tool-v1/assets/50814368/901e79b4-d947-47b0-aa77-89bd8e6c452e)
 
 ## NOTE: THIS REPO IS ONLY FOR ARCHIVE PURPOSES
 ### It also does **NOT** reflect on my current coding skills and techniques, this code hasn't been touched for 6+ years.
